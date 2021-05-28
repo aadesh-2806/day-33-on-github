@@ -10,7 +10,7 @@ void main()
 	
 	if(j>n)
 	{
-		printf("profit=%d",(j-n));
+		 printf("profit=%d",(j-n));
 	}
 	else
 	{
