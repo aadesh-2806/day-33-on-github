@@ -4,7 +4,7 @@
 void main()
 {	
 	int n,j,t;
-	
+	 
 	printf("hello\nenter cp and sp=");
 	scanf("%d%d",&n,&j);
 	
